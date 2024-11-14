@@ -40,8 +40,8 @@ Key dependencies include:
 **1. Clone the Repository:**
 
 ```bash
-git clone https://github.com/your-username/blackspot-analysis.git
-cd blackspot-analysis
+git clone https://github.com/pradiptadutta63/Blackspot_Prediction-using-LR.git
+cd Blackspot_Prediction-using-LR
 ```
 **2. Install Dependencies:**
 
